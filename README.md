@@ -34,8 +34,8 @@
 
 
 ## Learning / Will Learn
-<img src="https://img.shields.io/static/v1?&message=JavaScript&color=577B8D&logo=javascript&logoColor=white&label=" alt="JavaScript">
-<img src="https://img.shields.io/static/v1?&message=React&color=61DAFB&logo=React&label=" alt="React">
+<img src="https://img.shields.io/static/v1?&message=JavaScript&color=577B8D&logo=javascript&logoColor=white&label=" alt="JavaScript">  <img src="https://img.shields.io/static/v1?message=React&color=FFFFFF&logo=react&label=" alt="React">
+
 
 
 ## Status
