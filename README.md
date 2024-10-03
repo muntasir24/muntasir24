@@ -4,7 +4,7 @@
 </h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muntasir24&label=Profile%20views&color=0e75b6&style=flat" alt="muntasir24" /> </p>
+
 
 - 🌱 I’m currently learning **Web Developing** and doing **Competitive Programming**
 
@@ -37,8 +37,15 @@
 <img src="https://img.shields.io/static/v1?&message=JavaScript&color=577B8D&logo=javascript&logoColor=white&label=" alt="JavaScript">
 
 ## Status
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muntasir24&show_icons=true&locale=en&layout=compact" alt="muntasir24" /></p>
+<p style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muntasir24&show_icons=true&locale=en&layout=compact" alt="muntasir24" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muntasir24&show_icons=true&locale=en" alt="muntasir24" /></p>
+<p style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=muntasir24&show_icons=true&locale=en" alt="muntasir24" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muntasir24&" alt="muntasir24" /></p>
+<p style="text-align: center;">
+    <img src="https://komarev.com/ghpvc/?username=muntasir24&label=Profile%20views&color=0e75b6&style=flat" alt="muntasir24" />
+</p>
+
