@@ -19,8 +19,24 @@
 
 
 ## SKILLS
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+***Languages***<br><br>
+<img src="https://img.shields.io/static/v1?&message=C%2B%2B&color=00599C&logo=C%2B%2B&label=" alt="C++">
+<img src="https://img.shields.io/static/v1?&message=PHP&color=4F5B93&logo=PHP&label=" alt="PHP">
 
+***Frontend Technologies***<br><br>
+<img src="https://img.shields.io/static/v1?&message=HTML&color=E34F26&logo=html5&logoColor=white&label=" alt="HTML">
+<img src="https://img.shields.io/static/v1?&message=CSS&color=1572B6&logo=CSS3&label=" alt="CSS">
+
+***Backend Technologies***<br><br>
+
+***Databases***<br><br>
+<img src="https://img.shields.io/static/v1?&message=MySQL&color=4479A1&logo=mysql&logoColor=white&label=" alt="MySQL">
+
+
+## Learning / Will Learn
+<img src="https://img.shields.io/static/v1?&message=JavaScript&color=577B8D&logo=javascript&logoColor=white&label=" alt="JavaScript">
+
+## Status
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muntasir24&show_icons=true&locale=en&layout=compact" alt="muntasir24" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muntasir24&show_icons=true&locale=en" alt="muntasir24" /></p>
