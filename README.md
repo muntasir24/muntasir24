@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aziz Muntasir</h1>
 <h3 align="center">
-    Undergraduate Student at <a href="https://www.shu.edu.bd/" target="_blank">Sheikh Hasina University</a>, Department of CSE
+    Undergraduate Student at <a href="https://neu.ac.bd/" target="_blank">Netrokona University</a>, Department of CSE
 </h3>
 
 
