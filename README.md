@@ -6,7 +6,8 @@
 
 
 
-- 🌱 I’m currently learning **Web Developing** and doing **Competitive Programming**
+- 🌱 I’m currently learning **Web Developing** and doing **Competitive Programming** also exploring machine learning systems and cutting-edge AI, with a focus on practical, real-world applications.
+
 
 ## CP profile
 <p align="left">
