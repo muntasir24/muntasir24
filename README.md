@@ -34,9 +34,6 @@
 <img src="https://img.shields.io/static/v1?&message=MySQL&color=4479A1&logo=mysql&logoColor=white&label=" alt="MySQL">
 
 
-## Learning / Will Learn
-<img src="https://img.shields.io/static/v1?&message=JavaScript&color=577B8D&logo=javascript&logoColor=white&label=" alt="JavaScript">  <img src="https://img.shields.io/static/v1?message=React&color=FFFFFF&logo=react&label=" alt="React">
-
 
 
 ## Status
@@ -44,11 +41,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muntasir24&show_icons=true&locale=en&layout=compact" alt="muntasir24" />
 </p>
 
-<p style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=muntasir24&show_icons=true&locale=en" alt="muntasir24" />
-</p>
 
-<p style="text-align: center;">
-    <img src="https://komarev.com/ghpvc/?username=muntasir24&label=Profile%20views&color=0e75b6&style=flat" alt="muntasir24" />
-</p>
+
+
 
