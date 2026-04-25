@@ -67,6 +67,11 @@ Here are the technologies I am currently working with or actively learning to ad
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Pinecone](https://img.shields.io/badge/pinecone-%23000000.svg?style=for-the-badge&logo=pinecone&logoColor=white)
 
 #### ☁️ Cloud, Deployment & Maintenance
 
@@ -77,6 +82,8 @@ Here are the technologies I am currently working with or actively learning to ad
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 #### 🤖 AI, Agents & MLOps
 
@@ -87,7 +94,12 @@ Here are the technologies I am currently working with or actively learning to ad
 ![LangGraph](https://img.shields.io/badge/LangGraph-%23000000.svg?style=for-the-badge)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF9D00?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9D00?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
+![Llama.cpp](https://img.shields.io/badge/Llama.cpp-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PyTesseract](https://img.shields.io/badge/PyTesseract-%23000000.svg?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-Protocol-blue?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 
 #### ⚡ Automation, Testing & Web Scraping
 
@@ -101,6 +113,8 @@ Here are the technologies I am currently working with or actively learning to ad
 
 ![Cryptography](https://img.shields.io/badge/Cryptography-RSA%20%7C%20AES--256-blue?style=for-the-badge&logo=letsencrypt)
 ![IoT](https://img.shields.io/badge/IoT-Edge_Computing-red?style=for-the-badge&logo=raspberrypi)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 #### 🧰 Tools, IDEs & Version Control
 
