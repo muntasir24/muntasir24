@@ -23,21 +23,7 @@ I am currently learning and conducting research in the following advanced domain
 
 - **AI & ML Security:** Vulnerability analysis in Generative AI, System Prompt Extraction, Adversarial Attacks on Quantized LLMs.
 - **LLM & MLOps:** Building systems with Retrieval-Augmented Generation (RAG), Model Quantization for CPU/Edge computing, MLOps pipelines.
-- **Cryptography:** Implementation and analysis of **RSA**, **AES-256**, and secure communication layers.
-
----
-
-<!-- ### � Featured Projects
-<!--
-<!-- Here are some of my recent projects focusing on AI, Scalable Backends, and Advanced Systems:
-<!--
-<!-- | Project Name         | Description                                                                                                                  | Tech Stack                                     | Links                         |
-<!-- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ----------------------------- |
-<!-- | **[Project 1 Name]** | High-performance RAG (Retrieval-Augmented Generation) application optimizing document retrieval with an Edge-first approach. | `Next.js`, `Langchain`, `PostgreSQL`, `Docker` | [GitHub](#) \| [Live Demo](#) |
-<!-- | **[Project 2 Name]** | Computer Vision model using YOLO for real-time object detection, connected to an automated MLOps pipeline.                   | `PyTorch`, `OpenCV`, `YOLO`, `AWS`             | [GitHub](#) \| [Live Demo](#) |
-<!-- | **[Project 3 Name]** | Scalable Full-Stack E-commerce backend using JWT auth, RSA encryption, and real-time chat via Socket.io.                     | `Node.js`, `GraphQL`, `Prisma`, `MongoDB`      | [GitHub](#) \| [Live Demo](#) |
-<!--
-<!-- _(Note: Replace the names, descriptions, and links with your actual projects)_ -->
+- **Cryptography & AppSec:** Implementation and analysis of **RSA**, **AES-256**, secure communication layers, and Application Security testing.
 
 ---
 
@@ -67,23 +53,21 @@ Here are the technologies I am currently working with or actively learning to ad
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/pinecone-%23000000.svg?style=for-the-badge&logo=pinecone&logoColor=white)
 
-#### ☁️ Cloud, Deployment & Maintenance
+#### ☁️ Cloud, Deployment & Monitoring
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 #### 🤖 AI, Agents & MLOps
 
@@ -91,41 +75,37 @@ Here are the technologies I am currently working with or actively learning to ad
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-OpenCV_%7C_YOLO-green?style=for-the-badge&logo=opencv)
 ![RAG](https://img.shields.io/badge/RAG_Applications-black?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-%23000000.svg?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF9D00?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9D00?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
 ![Llama.cpp](https://img.shields.io/badge/Llama.cpp-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PyTesseract](https://img.shields.io/badge/PyTesseract-%23000000.svg?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-Protocol-blue?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9D00?style=for-the-badge&logo=huggingface&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 
-#### ⚡ Automation, Testing & Web Scraping
+#### ⚡ Automation, Performance & QA Testing
 
-![n8n](https://img.shields.io/badge/n8n-%23FF6D5W.svg?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-%23FF4F00.svg?style=for-the-badge&logo=zapier&logoColor=white)
 ![Playwright](https://img.shields.io/badge/playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![k6](https://img.shields.io/badge/k6-%237D64FF.svg?style=for-the-badge&logo=k6&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23FF6D5W.svg?style=for-the-badge&logo=n8n&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web_Scraping-Bs4_%7C_Selenium-%43B02A?style=for-the-badge)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-black?style=for-the-badge)
 
-#### 🔒 Security & Hardware
+#### 🔒 Security, Penetration Testing & Hardware
 
-![Cryptography](https://img.shields.io/badge/Cryptography-RSA%20%7C%20AES--256-blue?style=for-the-badge&logo=letsencrypt)
-![IoT](https://img.shields.io/badge/IoT-Edge_Computing-red?style=for-the-badge&logo=raspberrypi)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23EA661A.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-000000?style=for-the-badge&logo=hackerone&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-%234D98CC.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-RSA%20%7C%20AES--256-blue?style=for-the-badge&logo=letsencrypt)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-Edge_Computing-red?style=for-the-badge&logo=raspberrypi)
 
 #### 🧰 Tools, IDEs & Version Control
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%230078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-🚀-1A73E8?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
