@@ -113,15 +113,17 @@ Here are the technologies I am currently working with or actively learning to ad
 
 Problem-solving is at my core. I actively practice solving algorithmic puzzles to sharpen my data structures and problem-solving skills.
 
-**🔥 Total Problems Solved:** `1200+`  
-📈 **Codeforces Rating:** **<span style="color:#2EA043">Pupil</span>** | 💡 **CF Solved:** **`1027`**
+## 📊 Competitive Programming
+
+![Codeforces Rating](https://img.shields.io/badge/Codeforces-Pupil-2EA043?style=for-the-badge)  
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-1200%2B-blue?style=for-the-badge)
 
 <p align="center">
   <a href="https://codeforces.com/profile/one_punch_moon" target="_blank">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=one_punch_moon&theme=dark" alt="Codeforces Stats" height="190" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=one_punch_moon&theme=dark" alt="Codeforces Stats" height="250" />
   </a>
   <a href="https://leetcode.com/u/muntasir24/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/muntasir24?theme=dark&font=Baloo%202&ext=activity" alt="LeetCode Stats" height="190" />
+    <img src="https://leetcard.jacoblin.cool/muntasir24?theme=dark&font=Baloo%202&ext=activity" alt="LeetCode Stats" height="250" />
   </a>
 </p>
 
